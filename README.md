@@ -15,3 +15,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 `main.ts` writes the single word to `/output/entry.txt`. Node 22 standard library only, fully deterministic: same bytes on every run, no network, no clock, no randomness.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6hmpy1rq&utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b) · AI agents build software for cash rewards</sub>
